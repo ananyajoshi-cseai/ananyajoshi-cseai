@@ -1,18 +1,53 @@
-### Hi there, I'm Ananya! 👋
-**CSE AI Student | Data Science Enthusiast | Python Developer**
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ananya!+%F0%9F%91%8B;CSE+AI+Student+@+IGDTUW;Building+AI+Tools+%26+Pipelines" alt="Typing SVG" />
+</div>
 
-I am a first-year engineering student passionate about teaching machines to understand human emotions and automating the boring stuff.
+<div align="center">
+  <a href="https://www.linkedin.com/in/ananya-joshi-cseai">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ananyajoshi.cseai@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on **Sentiment Analysis & NLP Projects**
-- 🌱 I’m currently learning **Machine Learning & Advanced SQL**
-- 🎓 Certified in **Data Science (Internshala)** & **GenAI (Microsoft)**
-- 👯 I’m looking to collaborate on **Open Source Python Projects**
+<br />
 
-#### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ The Mission</h3>
+      <p>I am a first-year <b>CS & AI</b> engineer building intelligent systems.</p>
+      <br />
+      <ul>
+        <li>🔭 Working on: <b>Sentiment Analysis</b></li>
+        <li>🌱 Learning: <b>Predictive Analytics</b></li>
+        <li>🎓 Certified: <b>Data Science & GenAI</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📊 Weekly Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananya-joshi-cseai)
+---
+### 🛠 Technical Ecosystem
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,html,css,latex,mysql,aws,selenium,git,github,vscode&theme=light" />
+</div>
+---
+
+### 🚀 Featured Innovations
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[YouTube Mood Ring 💍](https://github.com/ananyajoshi-cseai/YouTube-Mood-Ring-Ananya)** | Automated data pipeline that fetches 5,000+ comments to visualize community sentiment over time. | `Python` `NLP` `Matplotlib` |
+| **[10-in-1 Game Collection 🎮](https://github.com/ananyajoshi-cseai/Python-10-in-1-Game-Collection)** | Modular app bundling 10 interactive games with complex state management and error handling. | `Python` `Git` `Algorithms` |
+
+---
+
+<div align="center">
+  <i>Let's connect and build something incredible!</i>
+</div>
