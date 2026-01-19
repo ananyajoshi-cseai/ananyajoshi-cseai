@@ -10,7 +10,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ananyajoshi-cseai&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
+</div>
 <br />
 
 <table>
@@ -49,8 +51,11 @@
 ---
 
 <div align="center">
-  <i>Let's connect and build something incredible!</i>
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
 <div align="center">
   <img src="https://github.com/ananyajoshi-cseai/ananyajoshi-cseai/raw/output/snake.svg" alt="Snake animation" />
+</div>
+<div align="center">
+  <i>Let's connect and build something incredible!</i>
 </div>
