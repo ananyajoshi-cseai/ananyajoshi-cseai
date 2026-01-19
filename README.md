@@ -51,3 +51,6 @@
 <div align="center">
   <i>Let's connect and build something incredible!</i>
 </div>
+<div align="center">
+  <img src="https://github.com/ananyajoshi-cseai/ananyajoshi-cseai/raw/output/snake.svg" alt="Snake animation" />
+</div>
