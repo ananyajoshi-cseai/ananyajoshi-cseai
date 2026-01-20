@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ananya!+%F0%9F%91%8B;CSE+AI+Student+@+IGDTUW;Building+AI+Tools+%26+Pipelines" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3366CC&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Ananya!+%F0%9F%91%8B;CSE+AI+Student+@+IGDTUW;BBuilding+AI+Tools+%26+Pipelines" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,6 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=ananyajoshi-cseai&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
 </div>
 <br />
+<img width="1200" height="628" alt="portfolio cover image" src="https://github.com/user-attachments/assets/d22bb02c-efe9-46c2-aeb6-a4a37330816c" />
+
 
 <table>
   <tr>
