@@ -9,6 +9,9 @@
   <a href="mailto:ananyajoshi.cseai@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/ananyajoshi-cseai/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyajoshi-cseai&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
