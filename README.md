@@ -75,16 +75,15 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 > 
 > [![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-quotes)
 ---
-
 ### ⚡ Fun Fact
+
 - 🔭 **Current Focus:** Fine-tuning my knowledge in LLMs and Sentiment Analysis.
 - ⚡ **Fact:** Did you know that the "Transformer" architecture (the 'T' in GPT) was only introduced in 2017? We are living in the middle of a revolution!
+
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
+
 <div align="center">
   <img src="https://github.com/ananyajoshi-cseai/ananyajoshi-cseai/raw/output/snake.svg" alt="Snake animation" />
-</div>
-<div align="center">
-  <i>Let's connect and build something incredible!</i>
 </div>
