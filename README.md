@@ -58,28 +58,33 @@
 ---
 
 ### 🛠 Technical Ecosystem
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,html,css,latex,mysql,aws,selenium,git,github,vscode&theme=light" />
-</div>
----
+
+[![](https://skillicons.dev/icons?i=python,r,mysql,aws,selenium,git,github,vscode,react,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🚀 Featured Innovations
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[YouTube Mood Ring 💍](https://github.com/ananyajoshi-cseai/YouTube-Mood-Ring-Ananya)** | Automated data pipeline that fetches 5,000+ comments to visualize community sentiment over time. | `Python` `NLP` `Matplotlib` |
-| **[10-in-1 Game Collection 🎮](https://github.com/ananyajoshi-cseai/Python-10-in-1-Game-Collection)** | Modular app bundling 10 interactive games with complex state management and error handling. | `Python` `Git` `Algorithms` |
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ananyajoshi-cseai/YouTube-Mood-Ring-Ananya">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=YouTube-Mood-Ring-Ananya&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/ananyajoshi-cseai/Python-10-in-1-Game-Collection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=Python-10-in-1-Game-Collection&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
 ---
 
 ### 🤖 Daily AI Pulse
+
 > "The best way to predict the future is to invent it."
 > 
-> <p align="left">
->   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
-> </p>
-
+> [![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-quotes)
 ---
 
 ### ⚡ Fun Fact
