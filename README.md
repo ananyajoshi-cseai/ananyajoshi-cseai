@@ -49,7 +49,14 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyajoshi-cseai&theme=github-v2)
 
 ---
+<p align="center">
+  <a href="https://leetcode.com/u/ananyajoshi-cseai/">
+    <img src="https://leetcard.jacoblin.cool/ananyajoshi-cseai?theme=dark&font=Fira%20Code&ext=activity" alt="Ananya's LeetCode Stats" />
+  </a>
+</p>
+
 ---
+
 ### 🛠 Technical Ecosystem
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,r,html,css,latex,mysql,aws,selenium,git,github,vscode&theme=light" />
