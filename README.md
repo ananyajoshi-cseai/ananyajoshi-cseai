@@ -20,24 +20,13 @@
 <img width="1200" height="628" alt="portfolio cover image" src="https://github.com/user-attachments/assets/d22bb02c-efe9-46c2-aeb6-a4a37330816c" />
 
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ The Mission</h3>
-      <p>I am a first-year <b>CS & AI</b> engineer building intelligent systems.</p>
-      <br />
-      <ul>
-        <li>🔭 Working on: <b>Sentiment Analysis</b></li>
-        <li>🌱 Learning: <b>Predictive Analytics</b></li>
-        <li>🎓 Certified: <b>Data Science & GenAI</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 Weekly Stats</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-    </td>
-  </tr>
-</table>
+### ⚡ The Mission
+
+I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems and solving algorithmic puzzles.
+
+* 🔭 **Current Focus:** Fine-tuning my knowledge in LLMs and Sentiment Analysis.
+* 🧩 **Daily Grind:** Solving challenges on LeetCode to master Data Structures.
+* 🐍 **Tech Stack:** Specialized in Python for Data Science and AI pipelines.
 ---
 
 ### 🏆 GitHub Achievements
