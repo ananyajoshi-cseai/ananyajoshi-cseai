@@ -38,7 +38,17 @@
     </td>
   </tr>
 </table>
+---
 
+### 🏆 GitHub Achievements
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ananyajoshi-cseai&theme=radical&no-frame=true&column=4" alt="github trophies" />
+</p>
+
+### 📈 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyajoshi-cseai&theme=github-v2)
+
+---
 ---
 ### 🛠 Technical Ecosystem
 <div align="center">
