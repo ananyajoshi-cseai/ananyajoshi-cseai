@@ -64,7 +64,20 @@
 | **[10-in-1 Game Collection 🎮](https://github.com/ananyajoshi-cseai/Python-10-in-1-Game-Collection)** | Modular app bundling 10 interactive games with complex state management and error handling. | `Python` `Git` `Algorithms` |
 
 ---
+---
 
+### 🤖 Daily AI Pulse
+> "The best way to predict the future is to invent it."
+> 
+> <p align="left">
+>   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Daily Quote" />
+> </p>
+
+---
+
+### ⚡ Fun Fact
+- 🔭 **Current Focus:** Fine-tuning my knowledge in LLMs and Sentiment Analysis.
+- ⚡ **Fact:** Did you know that the "Transformer" architecture (the 'T' in GPT) was only introduced in 2017? We are living in the middle of a revolution!
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
 </div>
