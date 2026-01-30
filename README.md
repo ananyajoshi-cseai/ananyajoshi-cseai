@@ -43,7 +43,7 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 
 ### 🛠 Technical Ecosystem
 
-[![](https://skillicons.dev/icons?i=python,r,mysql,aws,selenium,git,github,vscode,react,tailwind,html,css&theme=dark)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=python,r,mysql,aws,git,github,vscode,react,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
 ### 🚀 Featured Innovations
 
