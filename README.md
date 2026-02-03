@@ -52,26 +52,29 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ananyajoshi-cseai/YouTube-Mood-Ring-Ananya">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=YouTube-Mood-Ring-Ananya&theme=tokyonight&show_owner=true" />
+      <a href="https://github.com/ananyajoshi-cseai/CareerFlow-AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=CareerFlow-AI&theme=tokyonight&show_owner=true" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/ananyajoshi-cseai/Python-10-in-1-Game-Collection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=Python-10-in-1-Game-Collection&theme=tokyonight&show_owner=true" />
+      <a href="https://github.com/ananyajoshi-cseai/After-Feel-Poetry-collection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=After-Feel-Poetry-collection&theme=tokyonight&show_owner=true" />
       </a>
     </td>
   </tr>
 </table>
 
 ---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyajoshi-cseai&layout=compact&theme=tokyonight)](https://github.com/ananyajoshi-cseai)
 
 ### 🤖 Daily AI Pulse
 
-> "The best way to predict the future is to invent it."
-> 
-> [![Daily Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/anuraghazra/github-readme-quotes)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily AI Quote" />
+</p>
+
 ---
+
 ### ⚡ Fun Fact
 
 - 🔭 **Current Focus:** Fine-tuning my knowledge in LLMs and Sentiment Analysis.
