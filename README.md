@@ -12,7 +12,9 @@
   <a href="https://leetcode.com/u/ananyajoshi-cseai/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-</div>
+<a href="https://discord.com/users/1468114302731817183">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+</a></div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyajoshi-cseai&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor badge" />
 </div>
