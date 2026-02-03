@@ -65,7 +65,9 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 </table>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyajoshi-cseai&layout=compact&theme=tokyonight)](https://github.com/ananyajoshi-cseai)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/top-langs.svg" alt="Top Languages" />
+</p>
 
 ### 🤖 Daily AI Pulse
 
