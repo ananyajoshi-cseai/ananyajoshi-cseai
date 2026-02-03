@@ -49,24 +49,10 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 
 ### 🚀 Featured Innovations
 
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ananyajoshi-cseai/CareerFlow-AI">
-        <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/repo-CareerFlow-AI.svg" alt="CareerFlow AI" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/ananyajoshi-cseai/After-Feel-Poetry-collection">
-        <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/repo-After-Feel-Poetry-collection.svg" alt="After-Feel" />
-      </a>
-    </td>
-  </tr>
-</table>
+- **[CareerFlow AI](https://github.com/ananyajoshi-cseai/CareerFlow-AI)**: AI-powered career toolkit using Streamlit & Gemini.
+- **[AfterFeel](https://github.com/ananyajoshi-cseai/After-Feel-Poetry-collection)**: NLP-driven interactive poetry portfolio for my sister's poems.
+- **[YouTube Mood Ring](https://github.com/ananyajoshi-cseai/YouTube-Mood-Ring-Ananya)**: Sentiment analysis tool for digital vibes.
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/top-langs.svg" alt="Top Languages" />
-</p>
 
 ### 🤖 Daily AI Pulse
 
