@@ -53,17 +53,16 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/ananyajoshi-cseai/CareerFlow-AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=CareerFlow-AI&theme=tokyonight&show_owner=true" />
+        <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/repo-CareerFlow-AI.svg" alt="CareerFlow AI" />
       </a>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/ananyajoshi-cseai/After-Feel-Poetry-collection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ananyajoshi-cseai&repo=After-Feel-Poetry-collection&theme=tokyonight&show_owner=true" />
+        <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/repo-After-Feel-Poetry-collection.svg" alt="After-Feel" />
       </a>
     </td>
   </tr>
 </table>
-
 ---
 <p align="center">
   <img src="https://raw.githubusercontent.com/ananyajoshi-cseai/ananyajoshi-cseai/main/generated/top-langs.svg" alt="Top Languages" />
