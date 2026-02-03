@@ -1,0 +1,18 @@
+name: GitHub Readme Stats
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight
+  workflow_dispatch: # Allows manual trigger
+  push: {branches: ["main"]}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Generate Stats Images
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          gh_token: ${{ secrets.GH_TOKEN }}
+          # This saves the images to a folder named 'generated' in your repo
+          output_dir: generated
