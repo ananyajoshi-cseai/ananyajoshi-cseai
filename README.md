@@ -34,6 +34,8 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 ### 📈 Contribution Graph
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyajoshi-cseai&theme=github-v2)
 
+### ⚡ Leetcode Stats
+
 ---
 <p align="center">
   <a href="https://leetcode.com/u/ananyajoshi-cseai/">
