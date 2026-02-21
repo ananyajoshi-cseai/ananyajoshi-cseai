@@ -52,22 +52,17 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 
 [![](https://skillicons.dev/icons?i=python,r,mysql,aws,git,github,vscode,react,tailwind,html,css&theme=dark)](https://skillicons.dev)
 
-### 🚀 Featured Innovations
-
-- **[CareerFlow AI](https://github.com/ananyajoshi-cseai/CareerFlow-AI)**: AI-powered career toolkit using Streamlit & Gemini.
-- **[AfterFeel](https://github.com/ananyajoshi-cseai/After-Feel-Poetry-collection)**: NLP-driven interactive poetry portfolio for my sister's poems.
-- **[YouTube Mood Ring](https://github.com/ananyajoshi-cseai/YouTube-Mood-Ring-Ananya)**: Sentiment analysis tool for digital vibes.
----
-
----
-
-### 📊 Kaggle Ecosystem 
-
-I am an active **Kaggle Contributor**, developing predictive models and participating in global data science challenges.
-
-* **[Resume Success Predictor](https://www.kaggle.com/code/ananyajoshicseai/ai-driven-resume-screening-with-random-forest)**: Built a Random Forest model achieving **89.85% accuracy** to identify hiring drivers like GitHub activity and project volume.
-* **[Titanic - ML from Disaster](https://www.kaggle.com/c/titanic)**: Participated in the classic binary classification challenge to predict survival outcomes.
-* **Rank:** 🥉 Kaggle Contributor 
+### 🤖 Data Science & AI Projects
+* [**YouTube Mood Ring**](https://github.com/ananyajoshi-cseai/[your-repo-link])
+    * **Objective:** A Python-based tool for sentiment analysis of YouTube comments.
+* [**CareerFlow AI**](https://github.com/ananyajoshi-cseai/[your-repo-link])
+    * **Objective:** An AI-powered resume analyzer.
+* <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle"/> [**AI-Driven Resume Screening with Random Forest**](https://www.kaggle.com/code/ananyajoshicseai/ai-driven-resume-screening-with-random-forest)
+    * **Objective:** Built a Random Forest classifier to automate and optimize the resume screening process.
+    * **Tech Stack:** Python, Pandas, Scikit-Learn.
+* <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" alt="Kaggle"/> [**AI Skills Tracker: EDA & Visualization**](https://www.kaggle.com/code/ananyajoshicseai/ai-skills-tracker-eda-visualization)
+    * **Objective:** Conducted Exploratory Data Analysis (EDA) and created visualizations to track trends in AI skills.
+    * **Tech Stack:** Python, Pandas, Matplotlib, Seaborn.
 
 [![Kaggle Stats](https://kaggle-stats.vercel.app/api?username=ananyajoshicseai&theme=dark)](https://www.kaggle.com/ananyajoshicseai)
 
