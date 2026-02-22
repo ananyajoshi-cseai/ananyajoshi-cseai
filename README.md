@@ -66,6 +66,22 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 
 [![Kaggle Stats](https://kaggle-stats.vercel.app/api?username=ananyajoshicseai&theme=dark)](https://www.kaggle.com/ananyajoshicseai)
 
+## 🏆 Certifications & Professional Simulations
+
+| Badge | Certification / Program | Issuer | Date |
+| :--- | :--- | :--- | :--- |
+| <img src="https://images.credly.com/size/110x110/images/27449911-5367-4146-a49d-3f11d1e4c700/image.png" width="40" height="40" /> | **API Fundamentals Student Expert** | Postman | Feb 2026 |
+| 🎓 | **Generative AI Foundations** | upGrad & Microsoft | Jan 2026 |
+| 💼 | **Data Analytics Job Simulation** | Deloitte (via Forage) | Jan 2026 |
+| ☁️ | **AWS Solutions Architecture Simulation** | Amazon (via Forage) | Jan 2026 |
+| 📊 | **Data Science with AI** | Internshala | Jan 2026 |
+
+---
+
+### 🚀 Technical Skills Verified by Postman
+* **API Testing:** Proficient in GET, POST, PUT, and DELETE request methods.
+* **Scripting:** Experienced in writing Postman Tests and using `pm.collectionVariables` for dynamic workflows.
+* **Documentation:** Skilled in creating and organizing API collections for collaborative development.
 ---
 
 ### 🤖 Daily AI Pulse
