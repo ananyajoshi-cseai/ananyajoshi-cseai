@@ -94,6 +94,15 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 * **Documentation:** Skilled in creating and organizing API collections for collaborative development.
 ---
 
+### ⚡ The Mission
+
+I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems and solving algorithmic puzzles.
+
+* 🔭 **Current Focus:** Deepening my knowledge in LLMs, Sentiment Analysis, and C++
+* 🧩 **Daily Grind:** Solving challenges on LeetCode to master Data Structures.
+* 🐍 **Tech Stack:** Specialized in Python for Data Science and AI pipelines.
+
+---
 ### 🤖 Daily AI Pulse
 
 <p align="center">
@@ -110,7 +119,7 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
 </div>
-
+---
 <div align="center">
   <img src="https://github.com/ananyajoshi-cseai/ananyajoshi-cseai/raw/output/snake.svg" alt="Snake animation" />
 </div>
