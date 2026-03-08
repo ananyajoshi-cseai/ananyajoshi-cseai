@@ -43,13 +43,15 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
   <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=ananyajoshi-cseai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyajoshi-cseai&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+</div> <br/>
 
-### ⚡ Leetcode Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajoshi-cseai&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+</p>
 
 ---
+
+### ⚡ Leetcode Stats
 <p align="center">
   <a href="https://leetcode.com/u/ananyajoshi-cseai/">
     <img src="https://leetcard.jacoblin.cool/ananyajoshi-cseai?theme=dark&font=Fira%20Code&ext=activity" alt="Ananya's LeetCode Stats" />
