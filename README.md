@@ -54,7 +54,7 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 ### ⚡ Leetcode Stats
 <p align="center">
   <a href="https://leetcode.com/u/ananyajoshi-cseai/">
-    <img src="https://leetcard.jacoblin.cool/ananyajoshi-cseai?theme=dark&font=Fira%20Code&ext=activity" alt="Ananya's LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/ananyajoshi-cseai?theme=dark&font=Fira%20Code&ext=heatmap" alt="Ananya's LeetCode Stats" />
   </a>
 </p>
 
