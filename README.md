@@ -38,16 +38,13 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyajoshi-cseai&theme=github-v2)
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=ananyajoshi-cseai&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div> <br/>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajoshi-cseai&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=ananyajoshi-cseai&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajoshi-cseai&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
