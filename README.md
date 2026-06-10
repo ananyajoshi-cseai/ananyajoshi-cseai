@@ -37,15 +37,19 @@ I am a first-year **CS & AI** engineer at IGDTUW, building intelligent systems a
 ---
 
 ### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ananyajoshi-cseai&theme=github-v2)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyajoshi-cseai&theme=github-v2" alt="GitHub Activity Graph" />
+</p>
 
 ### 📊 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com/?user=ananyajoshi-cseai&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajoshi-cseai&layout=compact&theme=radical&langs_count=6&hide_border=true" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajoshi-cseai&layout=compact&theme=radical&langs_count=6&count_private=true&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
