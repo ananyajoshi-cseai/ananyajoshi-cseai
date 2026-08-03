@@ -58,12 +58,12 @@
 ## 📊 Analytics & Impact
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananyajoshi-cseai&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00e5ff" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=ananyajoshi-cseai&theme=tokyonight&hide_border=true&title_color=00e5ff&ring=00e5ff&fire=00e5ff" alt="GitHub Streak" width="48%" />
 </div>
 <br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ananyajoshi-cseai&layout=compact&theme=tokyonight&langs_count=6&count_private=true&hide_border=true&title_color=00e5ff" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ananyajoshi-cseai&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 <hr style="border-color: #00e5ff;" />
